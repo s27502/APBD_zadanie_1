@@ -7,7 +7,6 @@ public class Program
         int[] bb = { 1, 2, 3, 4, 5 };
         Console.WriteLine(avg(bb));
     }
-
     public static double avg(int[] arr)
     {
         double result = 0.0;
