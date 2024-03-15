@@ -1,6 +1,6 @@
 namespace apbd;
 
-public class Max
+public class Program
 {
     public static void Main(string[] args)
     {
